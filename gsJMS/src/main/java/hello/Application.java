@@ -1,3 +1,10 @@
+/*Spring JMS tutorial
+ * This guide walks you through the process of publishing and subscribing to messages using a JMS broker.
+ * This tut requires knowledge of JMS
+http://spring.io/guides/gs/messaging-jms/
+
+	Jan 15, 2014*/
+
 package hello;
 
 import javax.jms.ConnectionFactory;
